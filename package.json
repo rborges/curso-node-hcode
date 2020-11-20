@@ -1,0 +1,33 @@
+{
+  "name": "curso_node_i",
+  "version": "1.0.0",
+  "description": "curso nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rborges/curso-node-hcode.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "express",
+    "fs",
+    "path",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Rodrigo Borges (rodrigo.oborges@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rborges/curso-node-hcode/issues"
+  },
+  "homepage": "https://github.com/rborges/curso-node-hcode#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5"
+  }
+}

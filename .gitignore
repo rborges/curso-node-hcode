@@ -1,0 +1,4 @@
+ fundamental/file.txt
+ *.txt
+ exp\node_modules
+node_modules
